@@ -1,0 +1,7 @@
+.super-navbar{
+    display: flex;
+    position: sticky;
+    top:0;
+    z-index: 9999;
+    background-color: #102B3F;
+}

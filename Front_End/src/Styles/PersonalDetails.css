@@ -1,0 +1,14 @@
+.personal-text{
+    width: 500px;
+}
+
+#personal-button{
+    width: 200px;
+    height: 45px;
+    background-color: #26413c;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

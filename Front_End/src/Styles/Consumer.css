@@ -1,0 +1,9 @@
+#consumer-heading{
+    font-family: 'Secular One', sans-serif;
+    /* color: #050505; */
+    font-size: 45px;
+    color:rgb(255, 0, 0);
+    padding-top: 420px;
+    padding-left: 40px;
+    mix-blend-mode:multiply;
+}

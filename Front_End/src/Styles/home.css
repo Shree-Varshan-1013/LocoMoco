@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Rashi+Hebrew:wght@500&family=Secular+One&display=swap');
+
+#home-heading{
+    font-family: 'Secular One', sans-serif;
+    font-size: 70px;
+    
+}
+#home-heading2{
+    font-family: 'Secular One', sans-serif;
+    font-size: 80px;
+    margin-left: 100px;
+    color: #312f2f;
+    opacity: 0.6;
+    
+}
+
+.home-half{
+    font-family: 'Noto Rashi Hebrew', serif;
+    font-size: 30px
+}
+
+#button-register{
+    color: rgb(26, 25, 25);
+    width: 200px;
+    background-color: #e99246;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+

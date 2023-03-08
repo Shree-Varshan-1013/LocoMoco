@@ -1,0 +1,35 @@
+[
+    {
+        "trainName":"NILGIRIS EXPRESS",
+        "trainNumber":"1257",
+        "fromStation":"COIMBATORE",
+        "toStation":"CHENNAI",
+        "dateOfBooking":"2023-03-01",
+        "dateOfJourney":"2023-04-01",
+        "className":"SLEEPER",
+        "totalTicketFare":"500",
+        "link":"/assets/train5.jpg"
+    },
+    {
+        "trainName":"CHENMOZHI EXPRESS",
+        "trainNumber":"16160",
+        "fromStation":"THANJAVUR",
+        "toStation":"COIMBATORE",
+        "dateOfBooking":"2023-03-11",
+        "dateOfJourney":"2023-04-29",
+        "className":"SLEEPER",
+        "totalTicketFare":"330",
+        "link":"/assets/trainBg.jpg"
+    },
+    {
+        "trainName":"MAQ CHENNAI EXPRESS",
+        "trainNumber":"16110",
+        "fromStation":"COIMBATORE",
+        "toStation":"TRICHY",
+        "dateOfBooking":"2023-03-06",
+        "dateOfJourney":"2023-03-29",
+        "className":"3A",
+        "totalTicketFare":"530",
+        "link":"/assets/train1.jpg"
+    }
+]
